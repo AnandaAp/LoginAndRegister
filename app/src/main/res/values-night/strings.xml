@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome">WELCOME</string>
+    <string name="hi_there">Hi, There</string>
+    <string name="mulai_dulu_dengan">Mulai Dulu Dengan</string>
+    <string name="buat_akunmu">Buat Akunmu</string>
+    <string name="bergabung">bergabung</string>
+    <string name="welcome_logo">welcome logo</string>
+</resources>

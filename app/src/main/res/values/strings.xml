@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">LoginAndRegister</string>
+    <string name="welcome">WELCOME</string>
+    <string name="hi_there">Hi, There</string>
+    <string name="mulai_dulu_dengan">Mulai Dulu Dengan</string>
+    <string name="buat_akunmu">Buat Akunmu</string>
+    <string name="bergabung">bergabung</string>
+    <string name="welcome_logo">welcome logo</string>
+    <string name="name">Nama Kamu</string>
+    <string name="password">tuliskan password kamu</string>
+    <string name="email">contoh : email@gmail.com</string>
+    <string name="create_an_account">Create an Account</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="sudah_punya_akun_image">sudah punya akun image</string>
+    <string name="masuk">masuk</string>
+    <string name="register_success">Berhasil Mendaftar</string>
+    <string name="selamat_datang">selamat datang</string>
+    <string name="masukan_email_kamu">Masukan Email Kamu</string>
+    <string name="masukan_password_kamu">Masukan Password Kamu</string>
+    <string name="lupa_password">Lupa Password?</string>
+</resources>
